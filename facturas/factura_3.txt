@@ -1,0 +1,16 @@
+Cliente: Ruben Doblas
+Dirección: Av. Meritxell, 93
+----------------
+Mazorcada
+            7000
+Mazorcada
+    +Pollo                6500
+    -Queso
+            13500
+Combo Mazorca con papá
+ Descuento: 0.1
+            1550
+----------------
+Precio Neto:  22050
+IVA:          4189
+Precio Total: 26239
